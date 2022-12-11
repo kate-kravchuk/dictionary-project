@@ -12,6 +12,11 @@
   margin-right: 10px;
   border-radius: 20px;
   transition: all 150ms ease-in-out;
+  background: linear-gradient(
+    to right,
+    rgba(218, 183, 133, 0.5),
+    rgba(218, 183, 133, 0.2) 80%
+  );
 }
 
 .Phonetic a:hover {
