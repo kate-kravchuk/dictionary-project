@@ -12,7 +12,12 @@
   margin: 20px 0;
 }
 .Dictionary input {
-  background-color: #dab785;
+  background: linear-gradient(
+    to right,
+    rgba(218, 183, 133, 0.5),
+    rgba(218, 183, 133, 0.2) 80%
+  );
+
   width: 100%;
   padding: 4px 4px;
   border: 1px solid #ddd;
